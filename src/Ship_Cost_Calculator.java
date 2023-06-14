@@ -22,6 +22,5 @@ public class Ship_Cost_Calculator
 
         System.out.println("The shipping cost is $" + shippingCost);
         System.out.println("The total cost is $" + totalCost);
-
     }
 }
